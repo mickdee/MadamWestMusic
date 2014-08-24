@@ -1,5 +1,5 @@
-MadamWestMusic
-==============
+Madam West Music
+================
 
 Madam West Public 1-pager
 
