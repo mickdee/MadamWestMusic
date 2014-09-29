@@ -1,12 +1,16 @@
 MADAM WEST MUSIC
 
 Backlog
-	Auto rotating image carousel for splash
 	Silent video / gif play behind #music
 	Easier updating for past shows
-*	favicon
 	SEO-ify images (file names, title, alt)
-	Scalable SWF for title text (Futura)
+	iTunes link
+	Replace linebreaks in contact and tour dates w/ CSS
 
 Completed
 	Meta description + keywords
+	favicon
+	Auto rotating image carousel for splash
+
+Won't Do
+	Scalable SWF for title text (Futura)
